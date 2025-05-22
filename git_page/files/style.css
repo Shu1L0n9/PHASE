@@ -25,6 +25,28 @@ canvas {
     max-width: 768px;
 }
 
+.video-container {
+    margin-bottom: 20px;
+}
+
+.video-caption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #555;
+    font-size: 0.9em;
+}
+
+.btn-primary {
+    margin: 5px;
+    background-color: #1a73e8;
+    border-color: #1a73e8;
+}
+
+.btn-primary:hover {
+    background-color: #0d47a1;
+    border-color: #0d47a1;
+}
+
 .stat {
     font-size: 3em;
     color: #296add;
